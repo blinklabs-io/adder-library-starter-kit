@@ -3,7 +3,7 @@ module github.com/blinklabs-io/adder-library-starter-kit
 go 1.21.1
 
 require (
-	github.com/blinklabs-io/adder v0.21.0
+	github.com/blinklabs-io/adder v0.22.0
 	github.com/kelseyhightower/envconfig v1.4.0
 )
 
