@@ -47,5 +47,5 @@ UNIX socket mounted at `/ipc/node.socket` via Node-to-Client ChainSync.
 Running the code:
 
 ```bash
-go run ./cmd/adder
+go run ./cmd/adder-publisher
 ```
