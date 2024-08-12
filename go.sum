@@ -1,7 +1,7 @@
 filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
 filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
-github.com/blinklabs-io/adder v0.22.3 h1:dR7efOslBchRU6Uk1qaoXBrTYNk88+ebJVdPDR0jez4=
-github.com/blinklabs-io/adder v0.22.3/go.mod h1:CLiA294Ksitib91JxUvnQYrN2tYHZdDQIgZPqDtTqSI=
+github.com/blinklabs-io/adder v0.23.0 h1:hpz59zTCmMdLAGdLqCkU/anzEq+ziD83MKlgnDLqP7M=
+github.com/blinklabs-io/adder v0.23.0/go.mod h1:vaFg9u8DQll3FV2FEEIS8iiRNJLSCjMLpMlpu8QpPP4=
 github.com/blinklabs-io/gouroboros v0.91.1 h1:LUfBRMr7Zq8t4She6mQkpEngX1VCOvN6EsxuvW5hKAk=
 github.com/blinklabs-io/gouroboros v0.91.1/go.mod h1:HM4aERbLAF2ACev2ZoY17eVeL+nWXb7urqFlkvQ3uyk=
 github.com/blinklabs-io/ouroboros-mock v0.3.2 h1:tsym/TxeZB1N7GaxAvLU7hrMicszBR98vbj3XuRgD6U=
