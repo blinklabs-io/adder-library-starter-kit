@@ -3,13 +3,13 @@ module github.com/blinklabs-io/adder-library-starter-kit
 go 1.21.1
 
 require (
-	github.com/blinklabs-io/adder v0.23.3
+	github.com/blinklabs-io/adder v0.23.4
 	github.com/kelseyhightower/envconfig v1.4.0
 )
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
-	github.com/blinklabs-io/gouroboros v0.93.3 // indirect
+	github.com/blinklabs-io/gouroboros v0.94.3 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/jinzhu/copier v0.4.0 // indirect
 	github.com/utxorpc/go-codegen v0.9.0 // indirect
