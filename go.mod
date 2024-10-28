@@ -1,6 +1,8 @@
 module github.com/blinklabs-io/adder-library-starter-kit
 
-go 1.21.1
+go 1.22
+
+toolchain go1.22.8
 
 require (
 	github.com/blinklabs-io/adder v0.24.2
