@@ -74,11 +74,15 @@ func main() {
 	// Define address in chainsync filter
 	filterChainsync := filter_chainsync.New(
 		filter_chainsync.WithAddresses(
-			[]string{"addr1q93l79hdpvaeqnnmdkshmr4mpjvxnacqxs967keht465tt2dn0z9uhgereqgjsw33ka6c8tu5um7hqsnf5fd50fge9gq4lu2ql"},
+			[]string{
+				"addr1q93l79hdpvaeqnnmdkshmr4mpjvxnacqxs967keht465tt2dn0z9uhgereqgjsw33ka6c8tu5um7hqsnf5fd50fge9gq4lu2ql",
+			},
 		),
 		// Comment out the following line if you don't want to filter on asset fingerprints
 		// Filter on DJED asset https://cexplorer.io/asset/asset15f3ymkjafxxeunv5gtdl54g5qs8ty9k84tq94x
-		filter_chainsync.WithAssetFingerprints([]string{"asset15f3ymkjafxxeunv5gtdl54g5qs8ty9k84tq94x"}),
+		filter_chainsync.WithAssetFingerprints(
+			[]string{"asset15f3ymkjafxxeunv5gtdl54g5qs8ty9k84tq94x"},
+		),
 	)
 
 	p.AddFilter(filterChainsync)

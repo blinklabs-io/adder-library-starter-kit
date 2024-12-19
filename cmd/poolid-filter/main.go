@@ -67,7 +67,12 @@ func main() {
 	filterChainsync := filter_chainsync.New(
 		// https://cexplorer.io/pool/pool16agnvfan65ypnswgg6rml52lqtcqe5guxltexkn82sqgj2crqtx
 		// https://cexplorer.io/pool/pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx
-		filter_chainsync.WithPoolIds([]string{"pool16agnvfan65ypnswgg6rml52lqtcqe5guxltexkn82sqgj2crqtx", "pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx"}),
+		filter_chainsync.WithPoolIds(
+			[]string{
+				"pool16agnvfan65ypnswgg6rml52lqtcqe5guxltexkn82sqgj2crqtx",
+				"pool12t3zmafwjqms7cuun86uwc8se4na07r3e5xswe86u37djr5f0lx",
+			},
+		),
 	)
 	// Add pollids filter to pipeline
 	p.AddFilter(filterChainsync)
