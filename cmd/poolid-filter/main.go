@@ -33,8 +33,7 @@ type Config struct {
 }
 
 func main() {
-
-	var cfg = Config{
+	cfg := Config{
 		Magic:      764824073,
 		SocketPath: "/ipc/node.socket",
 	}
