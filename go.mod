@@ -5,17 +5,18 @@ go 1.23.6
 toolchain go1.24.1
 
 require (
-	github.com/blinklabs-io/adder v0.30.2
+	github.com/blinklabs-io/adder v0.30.3
 	github.com/kelseyhightower/envconfig v1.4.0
 )
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
-	github.com/SundaeSwap-finance/kugo v1.2.0 // indirect
-	github.com/SundaeSwap-finance/ogmigo/v6 v6.0.1 // indirect
+	github.com/SundaeSwap-finance/kugo v1.3.0 // indirect
+	github.com/SundaeSwap-finance/ogmigo/v6 v6.0.2 // indirect
 	github.com/aws/aws-sdk-go v1.55.6 // indirect
-	github.com/blinklabs-io/gouroboros v0.123.0 // indirect
+	github.com/blinklabs-io/gouroboros v0.125.1 // indirect
 	github.com/btcsuite/btcd/btcutil v1.1.6 // indirect
+	github.com/btcsuite/btcutil v1.0.2 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.8.0 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
