@@ -46,7 +46,6 @@ func main() {
 
 	// Configure pipeline input
 	inputOpts := []input_chainsync.ChainSyncOptionFunc{
-		input_chainsync.WithBulkMode(true),
 		input_chainsync.WithAutoReconnect(true),
 		input_chainsync.WithIntersectTip(true),
 		input_chainsync.WithStatusUpdateFunc(updateStatus),
