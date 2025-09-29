@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.24.1
 
 require (
-	github.com/blinklabs-io/adder v0.32.4
+	github.com/blinklabs-io/adder v0.32.5
 	github.com/kelseyhightower/envconfig v1.4.0
 )
 

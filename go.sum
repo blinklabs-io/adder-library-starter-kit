@@ -9,8 +9,8 @@ github.com/aws/aws-sdk-go v1.55.6 h1:cSg4pvZ3m8dgYcgqB97MrcdjUmZ1BeMYKUxMMB89IPk
 github.com/aws/aws-sdk-go v1.55.6/go.mod h1:eRwEWoyTWFMVYVQzKMNHWP5/RV4xIUGMQfXQHfHkpNU=
 github.com/bits-and-blooms/bitset v1.20.0 h1:2F+rfL86jE2d/bmw7OhqUg2Sj/1rURkBn3MdfoPyRVU=
 github.com/bits-and-blooms/bitset v1.20.0/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
-github.com/blinklabs-io/adder v0.32.4 h1:ZJkKIq3Rrp6s/JTBwqDuIDa4AvUEhKLenJN9/xZQ3f0=
-github.com/blinklabs-io/adder v0.32.4/go.mod h1:s9fgLBi1ELO+b71BMavu9SMmnViQTMRwNzBo4I7u1Kg=
+github.com/blinklabs-io/adder v0.32.5 h1:W0vxaA1JE+UhmVsNwEvOBRBRggXGCtXZijTvXLEMrg0=
+github.com/blinklabs-io/adder v0.32.5/go.mod h1:s9fgLBi1ELO+b71BMavu9SMmnViQTMRwNzBo4I7u1Kg=
 github.com/blinklabs-io/gouroboros v0.135.1 h1:2Z+GkULXKMFb/D1x7EE/LkCesAt/MQxrf3JNffBWvF4=
 github.com/blinklabs-io/gouroboros v0.135.1/go.mod h1:eCXFpt2fOhp2Id/0AqMaI/qr0bodbS0SIAOpNZVu9Iw=
 github.com/blinklabs-io/ouroboros-mock v0.3.8 h1:+DAt2rx0ouZUxee5DBMgZq3I1+ZdxFSHG9g3tYl/FKU=
