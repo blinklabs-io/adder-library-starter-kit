@@ -27,8 +27,8 @@ import (
 
 // We parse environment variables using envconfig into this struct
 type Config struct {
-	Magic      uint32
 	SocketPath string `split_words:"true"`
+	Magic      uint32
 }
 
 func main() {
