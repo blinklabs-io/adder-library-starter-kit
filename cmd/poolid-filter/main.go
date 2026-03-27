@@ -19,7 +19,7 @@ import (
 	"log/slog"
 
 	"github.com/blinklabs-io/adder/event"
-	filter_chainsync "github.com/blinklabs-io/adder/filter/chainsync"
+	filter_chainsync "github.com/blinklabs-io/adder/filter/cardano"
 	input_chainsync "github.com/blinklabs-io/adder/input/chainsync"
 	output_embedded "github.com/blinklabs-io/adder/output/embedded"
 	"github.com/blinklabs-io/adder/pipeline"
